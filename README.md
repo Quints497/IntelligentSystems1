@@ -22,7 +22,7 @@ The performance of the spam filter is evaluated using two key metrics: accuracy 
 
 The performance of the voting classifier significantly outperforms the benchmark algorithm, as demonstrated in the following graphs:
 
-Accuracy Over 5 Tests
+<h6>Accuracy Over 5 Tests</h6>
 <img width="361" alt="image" src="https://github.com/Quints497/IntelligentSystems1/assets/70848538/88a9d48e-712f-4535-9d37-99820b15a278">
 
 Precision Over 5 Tests
@@ -36,7 +36,8 @@ Average Precision
 
 ## Usage
 
-<ol> To use the spam filter, follow these steps: 
+To use the spam filter, follow these steps:
+<ol>  
   <li> Install the required dependencies (Python 3, pandas, scikit-learn)</li>
   <li> Download and preprocess the dataset</li>
   <li> Train the spam filter using the provided code and the selected algorithm</li>
