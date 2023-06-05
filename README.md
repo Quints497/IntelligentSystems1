@@ -25,13 +25,13 @@ The performance of the voting classifier significantly outperforms the benchmark
 <h6>Accuracy Over 5 Tests</h6>
 <img width="361" alt="image" src="https://github.com/Quints497/IntelligentSystems1/assets/70848538/88a9d48e-712f-4535-9d37-99820b15a278">
 
-Precision Over 5 Tests
+<h6>Precision Over 5 Tests</h6>
 <img width="360" alt="image" src="https://github.com/Quints497/IntelligentSystems1/assets/70848538/a450b513-65cc-4db1-9dbf-bc682891aa65">
 
-Average Accuracy
+<h6>Average Accuracy</h6>
 <img width="360" alt="image" src="https://github.com/Quints497/IntelligentSystems1/assets/70848538/884a8fd8-7130-430a-a4a2-378a20b610ae">
 
-Average Precision
+<h6>Average Precision</h6>
 <img width="361" alt="image" src="https://github.com/Quints497/IntelligentSystems1/assets/70848538/c0e5a6fc-831f-40a9-85e1-6b3d2ca97a7d">
 
 ## Usage
