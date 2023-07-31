@@ -1,5 +1,4 @@
 # IntelligentSystems1
-University coursework module, based around spam classification
 
 
 # Spam Filter
