@@ -3,15 +3,15 @@
 
 # Spam Filter
 
-This project aims to develop a robust spam filter using machine learning techniques to auomatically categoise emails as spam or non-spam. The filter helps users to avoid the hassle of dealing with unimportant or scam emails, ensuring that important messages are not missed.
+This project aims to develop a robust spam filter using machine learning techniques to automatically categorise emails as spam or non-spam. The filter helps users avoid the hassle of dealing with unimportant or scam emails, ensuring that important messages are not missed.
 
 ## Dataset
 
-The dataset used for training the spam filter consists of 4601 instances, with each instance containing 57 attributes. The attributes include features such as word frequence, character frequency, and capital run length statistics. The target attribute represents whether an email is spam or not, with a binary value (0 or 1)
+The dataset used for training the spam filter consists of 4601 instances, with each instance containing 57 attributes. The attributes include features such as word frequency, character frequency, and capital run length statistics. The target attribute represents whether an email is spam or not, with a binary value (0 or 1)
 
 ## Algorithm
 
-The selected algorithm for this project is a hard voting classifier, which combines a Neural Network and Random Forest classifier. Through extensive experimentation and hyperparamater tuning using Grid Search with 5-fold cross-validation, these two classififers have shown the highest performance individually. By leveraging the strengths of both algorithms, we aim to acheive higher accuracy and precision in spam classification.
+The selected algorithm for this project is a hard voting classifier, which combines a Neural Network and Random Forest classifier. Through extensive experimentation and hyperparameter tuning using Grid Search with 5-fold cross-validation, these two classifiers have shown the highest performance individually. By leveraging the strengths of both algorithms, we aim to achieve higher accuracy and precision in spam classification.
 
 ## Evaluation
 
@@ -46,7 +46,7 @@ To use the spam filter, follow these steps:
 
 ## Conclusion
 
-The spam filter developed in this project offers an effecient solution for automatically identifying and filtering out spam emails. By combining a Neural Network and Random Forest classififer in a hard voting approach, I have achieved superior performance comparedd to the benchmark algorithm. 
+The spam filter developed in this project offers an efficient solution for automatically identifying and filtering out spam emails. By combining a Neural Network and Random Forest classifier in a hard voting approach, I have achieved superior performance compared to the benchmark algorithm. 
 
 ## License
 
